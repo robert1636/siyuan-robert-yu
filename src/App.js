@@ -1,26 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import NavBar from "./NavBar/NavBar";
+import { Route } from "react-router-dom";
+import Life from "./Personal/Personal";
+import Sections from "./Professional/Sections";
+import Home from "./Home";
+import Education from "./Professional/Education/Education";
+import Internship from "./Professional/Internship/Internship";
+import Projects from "./Professional/Projects/Projects";
+import Extracurricular from "./Professional/Extracurricular/Extracurricular";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <NavBar />
+        {/* {window.location.href == "http://localhost:3000/" && <h1> Home</h1>} */}
+        <Route exact path="/" component={Home} />
+        <Route exact path="/personal" component={Life} />
+        <Route exact path="/professional" component={Sections} />
+        <Route exact path="/education" component={Education} />
+        <Route exact path="/internship" component={Internship} />
+        <Route exact path="/projects" component={Projects} />
+        <Route exact path="/extracurricular" component={Extracurricular} />
+      </div>
+    );
+  }
 }
 
 export default App;
