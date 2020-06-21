@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb0b5e31a958aac29a28acfb2fe67d62",
+    "revision": "bab3f868280c3eee4c0326266c998952",
     "url": "/siyuan-robert-yu/index.html"
   },
   {
-    "revision": "96a88c2ee36f3df29f15",
+    "revision": "d5e8a2d6e43b3229c6c9",
     "url": "/siyuan-robert-yu/static/css/main.d91e728f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siyuan-robert-yu/static/js/2.d53f03a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96a88c2ee36f3df29f15",
-    "url": "/siyuan-robert-yu/static/js/main.303ee957.chunk.js"
+    "revision": "d5e8a2d6e43b3229c6c9",
+    "url": "/siyuan-robert-yu/static/js/main.b6ef883f.chunk.js"
   },
   {
     "revision": "e21eae376e5e598e5219",
