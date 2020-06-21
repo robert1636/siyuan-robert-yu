@@ -4,7 +4,7 @@ import { withRouter } from "react-router-dom";
 function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-      <a className="navbar-brand" href="/">
+      <a className="navbar-brand" href="/siyuan-robert-yu/#/">
         Robert's Home
       </a>
       <button
