@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/siyuan-robert-yu/precache-manifest.8d5a2130be3b7eb3bee315aa533dbd1e.js"
+  "/siyuan-robert-yu/precache-manifest.f5f7de25872a3219d8c32797fbb519db.js"
 );
 
 self.addEventListener('message', (event) => {
