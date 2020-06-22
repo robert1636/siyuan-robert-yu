@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adf00ee3393a80cb2547e79d2745fe32",
+    "revision": "c12583ceaa30bc907f92a0b5ebe32a82",
     "url": "/siyuan-robert-yu/index.html"
   },
   {
-    "revision": "acc9eecd0adf7fb14048",
+    "revision": "7d6a6b3540008f713d54",
     "url": "/siyuan-robert-yu/static/css/main.d91e728f.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siyuan-robert-yu/static/js/2.d53f03a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acc9eecd0adf7fb14048",
-    "url": "/siyuan-robert-yu/static/js/main.72a96a94.chunk.js"
+    "revision": "7d6a6b3540008f713d54",
+    "url": "/siyuan-robert-yu/static/js/main.e1210ee8.chunk.js"
   },
   {
     "revision": "e21eae376e5e598e5219",
     "url": "/siyuan-robert-yu/static/js/runtime-main.573fe690.js"
   },
   {
-    "revision": "31a7337f5b8bf69c947e37f9da0e41c7",
-    "url": "/siyuan-robert-yu/static/media/Profile.31a7337f.jpg"
+    "revision": "bcc442cc3f80b91df5093d9189f1f263",
+    "url": "/siyuan-robert-yu/static/media/Profile.bcc442cc.jpg"
   },
   {
     "revision": "c3148119510457ffdd0abb5905953fe9",
